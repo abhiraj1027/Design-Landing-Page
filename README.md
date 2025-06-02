@@ -23,7 +23,9 @@ Open `index.html` in your browser to view the landing page.
 ## 📁 Folder Structure
 
 ├── index.html
+
 ├── image.webp
+
 └── README.md
 
 ## 📌 Features
